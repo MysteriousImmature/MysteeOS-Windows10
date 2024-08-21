@@ -8,7 +8,6 @@ This repository contains a custom configuration file for optimizing a Windows 10
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Components Removed](#components-removed)
-- [License](#license)
 
 ## Overview
 
