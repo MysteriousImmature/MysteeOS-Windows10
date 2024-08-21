@@ -26,7 +26,7 @@ Before using this configuration, ensure you have:
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/mystee-os-windows10.git
+   git clone (https://github.com/MysteriousImmature/MysteeOS-Windows10.git)
     ```
    Open the XML file in NTLite or another customization tool.
 
